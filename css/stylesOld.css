@@ -54,3 +54,8 @@ header h2 {
 .button{
     border-radius: 3px;
 }
+#carouselButton {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
